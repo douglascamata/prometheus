@@ -43,7 +43,7 @@
     "@lezer/highlight": "^1.0.0",
     "@types/lru-cache": "^5.1.1",
     "isomorphic-fetch": "^3.0.0",
-    "nock": "^13.2.4"
+    "nock": "^13.2.9"
   },
   "peerDependencies": {
     "@codemirror/autocomplete": "^6.0.0",
